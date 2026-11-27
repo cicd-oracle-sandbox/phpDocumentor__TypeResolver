@@ -1,0 +1,4 @@
+upstream: https://github.com/phpDocumentor/TypeResolver
+commit: dbe2133bb23e2e33a6834f4ed417f24a1b167769
+license: MIT
+Unmodified snapshot except that .github/workflows was emptied.
